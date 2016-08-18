@@ -1,7 +1,7 @@
 name: sacramento-comedy
 favicon: null
 layout_spectrum: 0.7176368774380535
-typography_spectrum: 0.985892097465694
+typography_spectrum: 0.5802699229680002
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7151542797219008
-  lightness: 0.4063685443252325
-  saturation: 0.8100652254652232
-  rhythmicContrast: 0.46824273583479226
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.23502733279019594
+  lightness: 0.4957650136202574
+  saturation: 0.5824248767457902
+  rhythmicContrast: 0.037724121706560254
 purpose: []
